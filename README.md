@@ -66,8 +66,6 @@ Matplotlib y Seaborn son bibliotecas de visualización de datos en Python que se
 - Conclusiones finales
 
 
-¡Espero que este repositorio te sea útil para seguir el curso y mejorar tus habilidades en Python y análisis de datos! Si tienes alguna pregunta o sugerencia, no dudes en crear un issue o contactar conmigo en mis redes sociales **r2d2_coder**. ¡Disfruta del aprendizaje!
-
 ## Requisitos y recomendaciones
 
 - Tener instalado python 3.9.
